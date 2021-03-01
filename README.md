@@ -39,7 +39,7 @@ Fließende Animation(beliebige Taste - Neustart);
 
 
 
-realisierte Funktionalität:-------------------------------------------------------------------------------------------
+realisierte Funktionalität:
 Startzustände aus 3 Dateien  (Note 2)
 Startzustand per Zufallszahlengenerator(Prozentangabe nur im Bereich 0-100) (Note 2)
 Schrittweise und fließende Animation (Note 3)
